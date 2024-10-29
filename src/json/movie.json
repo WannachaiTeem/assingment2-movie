@@ -1,0 +1,348 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sword Art Online",
+        "img" : "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+        "video" : "https://www.youtube.com/embed/_Q0VhVPCbiA?si=GhyasB-koadEzVZl",
+        "star" : 9.5,
+        "typeMovie" : [
+            {
+                "name" : "Animation"
+            },
+            {
+                "name" : "Drama"
+            },
+            {
+                "name" : "Cartoon"
+            }
+        ],
+        "detail" : "Sword Art Online is a Japanese light novel series written by Reki Kawahara and illustrated by abec. The series takes place in the 2020s and focuses on protagonists Kazuto Kirito Kirigaya and Asuna",
+        "director" : [
+            {
+                "id" : 1,
+                "name" : "Tomohiko Itō",
+                "image" : "https://cdn.myanimelist.net/images/voiceactors/1/54737.jpg",
+                "video" : "https://www.youtube.com/embed/5LXvgfFKto0?si=15x_o4cTyW-Wnmuj" ,
+                "detail" : "Tomohiko Itō is a Japanese anime director, best known for directing the A-1 Pictures projects Occult Academy, the first season of Silver Spoon, the first two seasons of Sword Art Online, and Erased. He currently resides in Shinjuku, Tokyo."
+            }
+           
+        ],
+        "writer" : [
+            {
+                "id" : 1,
+                "name" : "Reki Kawahara",
+                "image" : "https://upload.wikimedia.org/wikipedia/commons/c/ce/Portrait_of_Reki_Kawahara.png",
+                "video" : "https://www.youtube.com/embed/fPOuO-GiH30?si=HwIy07-FKG5jlDKl" ,
+                "detail" : "Reki Kawahara (川原 礫, Kawahara Reki, born August 17, 1974) is a Japanese novelist. He is best known as the creator of Sword Art Online and Accel World, both of which have been adapted into anime."
+            }
+            
+        ],
+        "stars" : [
+            {
+                "id" : 1,
+                "name" : "kirito",
+                "image" : "https://images7.alphacoders.com/311/311020.jpg",
+                "video" : "https://www.youtube.com/embed/h8mqCy-KK0Y?si=YioKugbHOSlYaDqL",
+                "detail" : "Kazuto Kirigaya, born as Kazuto Narusaka, is a fictional character and the protagonist of the Sword Art Online series of light novels written by Reki Kawahara. Known by a portmanteau of his name, Kirito which is his user name in the Sword Art Online video game which the series are partially" 
+               
+            },
+            {
+                "id" : 2,
+                "name" : "asuna",
+                "image" : "https://upload.wikimedia.org/wikipedia/commons/c/ce/Portrait_of_Reki_Kawahara.png",
+                "video" : "https://www.youtube.com/embed/fPOuO-GiH30?si=HwIy07-FKG5jlDKl",
+                "detail" : "Kazuto Kirigaya, born as Kazuto Narusaka, is a fictional character and the protagonist of the Sword Art Online series of light novels written by Reki Kawahara. Known by a portmanteau of his name, Kirito which is his user name in the Sword Art Online video game which the series are partially" 
+                
+            }
+        ]
+        
+    },
+    {
+        "id" : 2,
+        "name" : "One Piece",
+        "img" : "https://1417094351.rsc.cdn77.org/articles/10924/10923145/thumbnail/small.gif?1",
+        "video" : "https://www.youtube.com/embed/DoQGkYWvc2g?si=XyqRtz_zD0QMpXHF",
+        "star" : 10.0,
+        "typeMovie" : [
+            {
+                "name" : "Animation"
+            },
+            {
+                "name" : "Action"
+            },
+            {
+                "name" : "Cartoon"
+            }
+        ],
+        "detail" : "One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since July 1997, with its individual chapters compiled in 107 tankōbon volumes as of November 2023",
+        "director" : [
+            {
+                "id" : 1,
+                "name" : "Eiichiro Oda",
+                "image" : "https://miro.medium.com/v2/resize:fit:621/1*DLJ3UGHPWDtrzfcMTYjfZw.jpeg",
+                "video" : "https://www.youtube.com/embed/VKE7e9IgrhQ?si=Z2-UIwxgdnP-F153",
+                "detail" : "Eiichiro Oda (Japanese: 尾田 栄一郎, Hepburn: Oda Eiichirō, born January 1, 1975) is a Japanese manga artist and the creator of the series One Piece. With more than 523.2 million tankōbon copies in circulation worldwide, One Piece is both the best-selling manga in history and the best-selling comic series printed in volume, in turn making Oda one of the best-selling fiction authors.[c] The series' popularity resulted in Oda being named one of the manga artists that changed the history of manga."
+                
+            }
+           
+        ],
+        "writer" : [
+            {
+                "id" : 1,
+                "name" : "Eiichiro Oda",
+                "image" : "https://miro.medium.com/v2/resize:fit:621/1*DLJ3UGHPWDtrzfcMTYjfZw.jpeg",
+                "video" : "https://www.youtube.com/embed/VKE7e9IgrhQ?si=Z2-UIwxgdnP-F153",
+                "detail" : "Eiichiro Oda (Japanese: 尾田 栄一郎, Hepburn: Oda Eiichirō, born January 1, 1975) is a Japanese manga artist and the creator of the series One Piece. With more than 523.2 million tankōbon copies in circulation worldwide, One Piece is both the best-selling manga in history and the best-selling comic series printed in volume, in turn making Oda one of the best-selling fiction authors.[c] The series' popularity resulted in Oda being named one of the manga artists that changed the history of manga."
+            }
+        ],
+        "stars" : [
+            {
+                "id" : 1,
+                "name" : "Monkey D Luffy",
+                "image" : "https://media.oknation.net/uploads/201701/21/7298986a2.jpg",
+                "video" : "https://www.youtube.com/embed/xJ_xJ8K65Fs?si=e74ZPDT8nX1o0tOf",
+                "detail" : "Monkey D. Luffy, also known as Straw Hat Luffy, is a fictional character and the protagonist in the Japanese manga series One Piece created by Eiichiro Oda. Luffy made his debut as a young boy who acquires the properties of rubber after accidentally eating one of the Devil Fruits that belonged to Red Hair Shanks."
+               
+            },
+            {
+                "id" : 2,
+                "name" : "Roronoa Zoro",
+                "image" : "data:image/jpeg;base64,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",
+                "video" : "https://www.youtube.com/embed/bc8wXfu4QXU?si=foGT3XfIc8WMTtfy",
+                "detail" : "Roronoa Zoro, also known as Pirate Hunter Zoro, is a fictional character created by Japanese manga artist Eiichiro Oda who appears in the manga series and media franchise One Piece. He first appeared in the third chapter of the One Piece manga, published in the manga magazine Weekly Shōnen Jump in 1997."
+                
+            },
+            {
+                "id" : 2,
+                "name" : "Roronoa Zoro",
+                "image" : "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYZGBgaGhwYHBwaGBgcGhgYGhgZGhgaGBgcIS4lHB4rIRkZJjgmKy8xNTU1HCQ7QDs0Py40NTEBDAwMEA8QHhISHzQrJCs2NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAKIBNwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAIDBAYBB//EAEAQAAIBAgQDBQUFBwQCAgMAAAECEQADBBIhMQVBUQYiYXGBEzJSkaFCYnKx0RQVIzOSwfCisuHxQ4Kz0haDwv/EABoBAAIDAQEAAAAAAAAAAAAAAAECAAMEBQb/xAAtEQACAgEDBAEDAgcBAAAAAAAAAQIRAxIhMQQTQVEiFGFxMqEFIzNCkbHwFf/aAAwDAQACEQMRAD8ArrFPtnKSRBB95TqjeY5H7w189qywx79a7+8H61t1ozrHJcMPY/gSXQXsnI4BZrZ12+0scvEeutDsFxF7bZLoJHXmP/sPrVNOIOCGDEFTIIOoPga0FviNjEqExIFt+TgDI34/gPjt5UNSsscbW4QsOrAEEEHYg1OsVnuJdn8ThgHWWRhIKnMPUD8xQteIv1IPnU1lXZNsFFdgeFYscQfqfnXf3i/U/OhqJ2WbIqKjKVlF4i/U0795P1o6wdlmoyUitZU8Rfqab+8X6mhqD2WawJXclZMY5+pp/wC3v1NGwdlmtVKei1kP3ncHM0v3k/xGpqJ2WbZFqPGAZG22rHLxO5yYzy6TyrR4Xg9x/ZuzrctPDEaqcrLocpnUSDvyqnLnhjVyYHHTyZzDvluKfvQfI90/nRxMY6JAYgd0QGI5qDAnTc7UTwvZZAXzkOpEKdQ66zM8j5b09uzmZVlsrZiWKyQyl82g5NAGvKTvpXJ6jqMc5WhZtSexicdeLNqSwAGupklVzN1PnV3gyfxR4DWtg/ZqzlKjMuZ87EES25CkkaKJGg6Cq9/s8ilnGYqqQiJoWgE6sZJJJOtX4euxxSiMpKqHMV6ionuIPtCs5jMFfVWdlKKCPeJG5ACqD3ifPpQxrz9a6MMsZrZjLEn5Nk+MQfaFVrnELfxCsmXakATT6huyjRtj061XucQTxoGUbpUTA9KmonaiG34kvKof29Z2mhBqN7kbVNQe3FBPH8R0yrAoHcBmnnWnMdKlh01wOwlqSPOtTcxSWEVF77kTlH5k8hWXw6sRp3R8X6dTUyPH/O5/Ef7VHKtkN2r3kGMPhHvEPcPd5DkPwjn5n60at4dVECAP83rKjiLdTS/eLdaClQkouW3g12nUUw3FH2hWTbiDHmaiOJJ50dYvZNgMQnxClWO/aGrtTUTsorZDXchqYWzXchqqzTpITbNORTU2U05UPSpZNIZ7OdpbuG7o79o722Pd13KfCfoeYonxbhWGxie1wkI41e20gj72Xpv3hpWWCHpUtsupDLKsDIKkgg+BFROmCgbfR0MOCP8AOR50xXnatpY4jbvr7PFIAToLoURPV1A7p+8unUDehvGuyj2Dnty6EZgRBBHgwMMKek+Bd0AQTTwDXbd7WGEHx0/6qxB6UtjJFfKa7lNTSfhprFulSw0NVKeE8aZ3uldCNRsFEns/GprOGzGACT0AJPyFQoh61oOy9pfaDvsr9AJDLuQx/WqM+XRFyFm6VhTs5wJVDG4jyRlK3AhRhIIYCJ0jn41p7aKoAAgCAANAANgByqO/cZVlVDH4SYzeAPWosNj1c5YKtGaD06g8xt8+oIHn8mSWRtsxybbsnW/Llcpgc/8AOvXwNPe4I0GsExI1/wA2obfxbM6BCYRmzrGpAhQPLvZ//UVxFdHd8pJcovWFV3G3IZYPm3nS6QBJLhO6xp1B5nTT8/GnmhS8WBvBABliZJMsSYGVRy37x6dCDV/EXgik89gOp5D/ADbU0GmmtiEPEOGpdy5wSFMgSQCdtQN/+TWA7QpN947oBCqIgAKAoA+Ux416Fg7uZBJlgq5iNBJE/wDMcprP9qE0CW7JLMc7utsnQGYzAbkjXwB61s6TM4z0/wDIshKpGOGEbrTThmFWvak0w3D0ruWzXRXCGkUPKpSfCoLt8LRsjRWxLmYqoTrUj3Jaa4LeY6aDmTsP1qCqLfA0eFTpZA97U/DyH4j/AGpWzGieWbmf0FEcNZCCWEk1GyxVHjkpO56f8DwqIg9KKOFPKoyB0oagPfkqC0d6RXwq4B4VzL4ULBRTM9KQU1aZKXs/GpZKK+Q0qkZPGlUsNHQDTtapDEtXf2o9aWmGy5Bp6g1SGKanDGNRpksvQ1KWqoMc1I45qmlkstF2onwrj92z3QA6HdH909SOanxH1oA2NNN/bD1o0wWjZ3sBhsbra7lwDW2wAfzRho48vUVlsXg71gwynL5f5H5VXXHt/fyPIjoa0GA7SBx7PEgunJx/MXl3vjHn3vParE72YvHAHs3A+3yqX2Zo5i+yQuIbuGbOoGaVII5yIGqnwieorOJcZHyXpWDB0/yR4ilcWhtXssCya6LdOONUEwARyI50ncsJQ+lLTJqQgla3slinZShZYUaLI9ouvMDZaw74hhodDWg7P8SuZCkQI7rBQOe0gQTWPrYt4yrNL4m3YkxoJLBQTrEneNDtNT/sLTJdZ6hNfQljQzhmJDlF1nPMGfgY6Tt5UZwtzMXOuj5fkizHqTXPw44uO6LelxRlG5KwNetXFyuPfd8oAQZmUEnvSYHdET4+lXLy3FUsQhAGoUsx8SJA26Rr4U3i+MdHAU6FDy2IO4PqKE2MY6NIO+/OfMVc8MH4NH0mN70X8Gru8FlTNbR1KoO8Dow1M6SunjRFsExEFw3LVB686ZhMV/DDv7wUFjAGVW1J+UEjw9KkF8+3ZPs+zVh553DfTL8qnaj6J9PjXgHF9LbKAC2oEmFLCWbKNWOpHqTVPtLccWiEGh98yB3dgo8WJA+fWoMRei2gNxlOVQQhykZdCBHeLEiPDXTrT43jM+RZZQveOWdWOg9Brv8A9Z8ONvKl9zlcToBqDt0prJ1IFU7t0qh8WNUmvHqa7+lmxSLF/FAGFofeed9zXASxOXbmx2H609RG0+Z39PhH1ohryxi2wPe/pG//ALHlU4ObSPIDYeVQlKJ8IVQ0t9aD2JqvZEuGwBRc5GvIU2Wnaid3FA7kVUfFoKrUmw1RBJ6VzvU9sYlM/bU6UdyWOAPM0/KOtQHHL8NMfHDktSmSyZ1HWoWI61A2KPQVG2Jbwo6WC0Skiu1VW+wpUdIdSJ34a0SDI6iohgmruCxrodDp0O1bLg3FcO8K6KrdeRqzUvRVbMdbwhmDVrD8NLmFBJ8BWt7S4RAqsgGvMU/sYnfYxyp7SjaBZml7Pv8AA3yro4A/wN8q9Uz+A+VOJ8vlVfd+wLPLD2ff4G+VMPAH+BvlXq00xjU7v2JZ5X+5W+E/Kn2eBuT7pHnXpF+8iDWJ6UGx3ERz0HQUynfgFsGcPwbYeWR2VyIJXYjoynRh4H6UuJ3LWJOW+qo+nfUdxiBEk7oTvqfU1Zw2GuXjoMidTzrQYHhiINBJ5k1hzdfDFKluy6OOUt2eX8U4BdsEsoLJ1A5ePX86HYbFQdDBr1PiNgWoNoqAd7bHuH8HNPSR4Vlsfwizf9wG3d+EkCR93k48j8q0Yc+PMrjs/TBKDiCkxKOIddeoorwbDCXysoXuxmJGZ2nKq8tYOvhWaxGGuWWyuCRMT/3+R+danhWEnDlkuC4HKlkT3kKZtDm1zQ8xGyHel6lJx0sMMam6fBpuzaL3nysXUABegO4j4pEelG8JcUSmUodWytGoJ1IIJnU66zJ8RWX7Hs7M0uJGUvHeD5i/iMp2O30q3x+ze7rJeVire4Qtq4u4zhj73pAI9awQhtSNWKoRSCHFsC7uCOS6dPEHpOnyoP8Au93BGUwNDvrrGUee3zq3hePuO46B3gQ1t0ZGJ0GaDoeoE+lEMRizZtI7BmCrDKsMx0EGZ3kdeZ8KjTTo0KWxNg8JlRlfUvOb1ERVXhOLR0tuSc5tqmYhgrERIDkQTM0Jv8a9uyox9ijbqzKHZfvgHQeAOvM7iiHA+K27gFpBmC5gxjRQCwUHTciNDGlGnQr5BfGBlxDqATJQgAEmX0geoJ9TQzFYZy7J7uUQZI3IBlY30Ya1e48ji45kAi2TuRuXAAjYwwE9Yqi/aRfZCzaRXbuiWUezQZVUafaaQdttN9qXFjerUuTF9PFycn7JOLcHt2rKM7QImNyxPIDnWWXh73SSqEL02/qP9v8AutxgezbuqvdYkiIDlizQNJMyg+Z8BtTMemRwjJk6DTKR9xhofz6gV0o5k/imSWNwV1Zkv3eViR9NB5CuYjhxjNsOda8ZIkwY8qA8YvdyBGutO5rgpWp7sDvgDAI1B5iuNhXFP4ZjjbaDqp3FbTh3B7V5Q6vI6dKK0rkNtGF/ZmPKkMCxr05OBWl3E1MvDrY2QUbj4QrkzzBOGOeR+VWE4G5+yflXpyWEGyAelShByA+VTWvQNTPNk7OXD9g1Zt9k7h+zXoJBppmprYLMQnY1/Cnv2PKqWJGgmtiCZp2MuqEYMYkRS62GzyW5hRMATSrUWcOkmBOtKrNSDZnMRwgbofSqRwzpuDRIYp9P4T/X9KsW8Y+xsO08oJ/IVzIPqY8qzVJYnwyrg+KOoyt3l6Gtf2XxlosYOUkbGsjewrOxC2LitzUKTHpFRewupvbuL0lWB/KtsJOSppozSSR60KfXnPCu0t5NGR2XpFHx2xSP5F2fwrH+6aDixaNMzhRJMChGM4l8OgrLYjtM7OWdHy8gAP7kVTXj6M3fVwvRcn92qP4q2g07oO+2e42VAWPXkKv4fg6J37zTHXaTsB1PgKG2O2GGRYS1c+SSf9dJO1Vr3yrtc+yMoyWweS66tG7bnwGlc7K+ozPTTSNGOEFyw7fxRUCSLKb6gG4R1C+6g8WnyFQXcAL66W7hnZrrwGHXJmkfIeVA8Jxuwz573tDBkLlnMdCGbXYch4eVGv8A81w3POP/AE/5oR6dx/tNNw9hTh/B7aIEKJ5ZUYDwByCflUHEeB4YrmdFRVOYle5ttLLB+VUx22wvxP8A0GoMV2nwVwqXdzlMgZHiepAGp/U06hNO6Jqh7Q65giyFshu2jPdcD2qrtIn3x4GG8zpWYPBXTLfwdyRowAMbagQf9p+QrWp2qwpXIjOTlMKLdzkpPw+FAZZXTIHzezsrKCRJzKoYbGdB+laYZ3+nIr/2VSxxu4sf2d7SBb7jEgW2cAEwQuYQNeg8dq3GIvpkLEysTIO4PQisBjb1m73L4RHmA8rlZtoJBJQzyJ9TQ+5+04MFVYvbbdfeWOoHI+IjxFHJ0ya1QBDLp+MjQ31QuWCKvkBPz3NHeG2VvWEDTCs4id8jso9NKynAMauJOQMiPyR2Iz+KNlg89JmtbgOD4m2wMAgT3c4gk9dPPYVmeOfo0vLCtmNudm7LPmcZl3yMAVn11qZHtYayoIVAB7oAEtEkADc1n+O9r3tubdtbbuJD5XZkQ8szwoJB3AnzFZvDY57me9cLvlhWeBChvdVF0gE8wNfrTLFKvkLriyzxDEXMZiCElEIC5dJKgyWY8hpPppNbXgvZ61YAIAZx9ojY88o5ee9ZXh+NRLL3TbfIWdFYKDBKBVDayuuYyY38a0Y7UItpbrW7oRjlByLq2s93NMaHWIoNTeyVIWMops0NQYzDI6FHQOp3BE7bR4+NCb/aZERLjW7oR/dOVTPoGketQcQ46DkQJcQ3FLKO4pcRIXMGlJ57HypNMlvQ2qL8hPAW7BEIqSBr3FDRtJAH1q02EQiCiHzVf0oF2afUF0Id0zAkrlC6EoANRuDJ3jwAGjpWxlT4Mzx3geHjMbEL9p7fdZPEqNGXx1jyoHh7dzBkXEb2lgn3gIK66B15ee3lpXoJFA+HYMJdu247hUMqx3cj/ZjaAQ4jpFWQyyQk8UZIv8PxiXlDKfMcxVr2YrEcRsvgbodCfZv7o+E80P5jw8q1HCOMJfXTRuYrZGWpWjBOGl0y6bdILUoFR376p7xAprEo4VqvfdUEsQKHY7jUaIPWgGJxTOdSWPQUXtuyUFcZxsDRB60BxGMZj3iWPSr2G4M76v3F+tGsLw22myyeprFm6/HDaO7LI4m+TM4S3cBzFcqnaaVaHiWsUqtwZ5TgpAnBJ0CBxG3ywq+t1h+SVbs8VULC4ZVnci80n1KTQdBUivXPfX5vZs7EPRo8LxRFWBh1WdyLhY/VBNQ3HtuczIxPUv8A8ULtPVi21V/+hnjw/wBgPBD0WfY2+Vv/AFkf2pl32awDafXowj55qej0zGGQPOmj/FM97v8AYX6eB2zaRzAtN/Wv61Z/dyc7T+jp/wDaocAe+KLX8SqATuTCqNWY9FHOg/4p1N0q/wAEfTwQM/Z7QLKbdwZVznW3ABJAnv7mDA8DTLIwzHIqXi/wqqEgdW78KPEkVft8NZ1b2pyh2zMiMQTGihnGuihdFjUbmiWEsIi5UVVX7oETzOm5nnW+PV5a+T3GXTQrgGrwa2fsXB55P7OaeOB2d2VyOgCSfUtRamhwZgzGnkelN9Xk9h+mgBL2DtXIy2nCAAqAtmIPP35nzqzguHYZBrh3J6lLR+QzGgL4h7N5gCYLNoNRBvK4/wBLMPU0VwPFnusWUQgbKAAC1wjfLOyjm3/dR9TPgn00UCu1l+xlC2LTJcQln7iowQ23Gh0kEkbaaHpQfEXXLj2TMFAszGQa22n7QmdBHKt7xDAW7qw6K8AxmUEgxyO49KzfCeBu4dmzoZAUMmhgGTlMHc8jVLnb1MZYktvAMuoWZmOfMxksDaDT+ILI8hUa4o2+7lYoWhlcpkBO0ZfcnwESdqK4jhF1GzFC4ggFDmAGn2dGnTkDQbGYrMGRFzHUNmBCryOeemun5VbDNO/iF4YUVuMYCwRnQi20ElWMGR0B0f0NUF4piPYlGdsnWCXI6Ztwp8fKrH7udwpBzxuzsRP4ND84jz3rQcNxRS37G7YD2u8QysPaIW8YGceBg6c60PNGTSfPsr7OndKzO8JvW4ldGUe6cmm2oDKZPiOvKjSYpzlC5sx0RItCBOrNFvQayx9NTAoJxHgQym7ZcQupAzArGokboakW7ftstlTmvXFQsdnQT3UzDTmZPKSdZ0rypx4fIiafK3DfCsRcuOVTLnAkt7QLMkjKYtyDC+7yEUUv4C+uZ3dF6u2IcQIA97JUfZ/ggaXLMFEIuWAXyFi9wmJ1dniOgopa4c5cuLyvDHKblsuUIJBC5XVRGokKD1Jqjuy9lscSoE4LAYg5nVYn7b37qM/Mn3A0eJArt3gOIKQhTXX+Y7SCjD38k/amtAMc6SLlp9Pt2xnQjqFBzjygx1O9Q8SvQntEOZGGuU7T7roeRmNOfnurySezGjhiRcF4ZcRs1xlIAIUBmaCSNZYDkPrR2hHDON27iKxYA6g9JBIJB6SKfjOMW0UkHMfCfqarLVGlsEbl1VBLEADmTArltgwzAb+EGOVAuGI99va3fdU9xOQPIkcyPzrQA1CNALtDwy7eRkVkI3VWBUhht3xP5VjFS9hnGdWRuRMQ3kw0NenE1XxmFS4hR1DKeR+hB5EdRVuPM4/gpyYlL8mPxHa65lygAGN6FYXGXLtyTmc/Sr+M7OBHhmLKfdPX7p+8B89xzg5wbDIg7oihn6+OPaK3M6wPyVbPCHfVzlHQb0VwuBRB3V9edWCaQNcjN1eTK92XRhGPA6mk11m0qEmqBihj2748qVRY1+/6V2vSdIv5KMOV/JgFTT1Emq4arGHauI0dMlURU6GmMaktikYpOhrmIbSuKaixlwKhYmANaWKtij0xORgYLEnKqj3nY7KvyOvIAk6Cj/D8GVJe4Q1xhBj3UX4Enl1O5PoAO4HgCv8AHuiHI7qn/wAaHr99tCTy0HIzfxPEgEJty5+zkVmUnb3lEQN9+VdDFiUVfkdLyyLiWOYuLSHUmHbmJ+yOh1knl+RaygVQo0AAA8hWSwN7JcVnldZJdSskzrqBzNaPE8RRFLMwiJ01J8quHZDxXGkEW0MO8aj7KkxI8TsPInkKv4a0EQIuwHzPMnxJ1rJWMaRc9owkk5iPSAB5CB6UWw/FnusVtWwcsZmd8qidhopJPOIqURqgPxpxncEkGW0HvQN8oGvrUeOuvawyPbRzBXOyKMgQA5UBkMUBIkrpvqNa1XDsH7NTJzOxLO0RmYmdPujYDoKmvXknI0SwOhGjDYjpz28aN0CXyQC4FxYFE77OCMrZizOrgSSIElfDkI10NHMTjrdtPaO6qkTmnQg7R1nlG9ZDiFo4K9nSfZXO60bwNSs+G46gHxNMtImJcW80IZdSe8REEhAZCzq3z32oeStSa2Y7Fcbv4t/Z4ZWtod3/APIy9R8C+P8A1RzAdm7aqA4D6Rl+yP7sfE+gFE8BgUtLlRYHPmSerHmat0zn4jsiyjJYvhDoxgF05N9pfuuOfgw9fEbibFyVVBlnmVMxsIHM/pW9Y0C4JbZ7ly85nvZU6ADoOW8fPpQsZPYzfF+EiwttiWLsxJIMuQgkZjzGcppEcuYoNw4XPaO8Em42U3JByBpEgiO8QjBYEQJ02redo+G3HIdBm7uQr3QQM2aVZiACTE89BFUL/CGsYYKijMbgd8qyF7hGgGsABVmOZNMp7UyhwuVklriFxwuHthUJEBlHuW1AEwTy0A6kjbWi1/FJZRLSe+cqIN4J0zN5CWPWDWMRyXM92UGUq0zDNOU6dRRDg2LRbxe4TCAqpOvfI77Hn7vdB8WoUXNG3Gg39TQrGcOeHFpwoeSUdcyZjqShBBQk68xPKm4XGG+5gRbtkTP233A8l0Pnl8aZiu0uHR8j3FBCyecdAANyddunjSpMUyGCuZC6FWWHfTI5AM98AhYIDBtehFX0zsdEuERv7O5qf6fCj2JeAL1lwFuFc+xUkwquR/SrR9nn3RRTDXc6gkZTsQfssNCPHXnzpnXIVJrYHcHuuqZTbubyO7l35d4iiHtnOyR+JwP9oapqhxGJRBmdgo6nb1PKkI9xv8U80Xwhm+sr+VdcPyZD4FWH1zGPlUB4ra+MfI/pTf3ta+L6H9KJKYsY6lct5coOmYGVB5HPAynbVgBMVWwIKlkb3118HU7OPyI5H0kil1XEghgf8g1Tu4IiCh0XVV+E81U/Aw0jloRtVObGpx+4skTk00mmq4YBlOh1FcJrlNUxCXNUZropRRAzP8VeGb/OdKoeOn3j4j86Ven6aP8AKiYZ/qBS1aw41qJVqzbrhSZ0icinJXM1TWyKqbFbOp40+0i927cBKg/wkAlneNGy/lOg1YxoRWS6rHMQWQNkRBq1+4JkD7ikGTtIM6DU9g8KQc7kNcIjT3UX4E8Op3MeQG3Dh0/KXJIqxJgy5zXobpbGttOk/G3idByA3JEUwGlNaLHHkTvQfH8HV5C27aT9oM4J8SiBQfnRaa7NROiGTu8AdWVPbu73Cx2VERF95jHfaJUAZhqwk1o+FcOTDpkSTrLMxlnY7sx5nQfIU3H3ltq90gSqxqY0mYnlqagTEJibQe2+UxmVuaN4j6EcxNFttELnEMYbSh8hZAe/G6L8ccwOfz5Gq3E7qPazB16oZ+1EwOeo0qhZ7QDI4dT7RNGRYMt4E6QeprNe1ZZ/hkjOQkDujMufIGMAZRI8gKiiGyfiOIe5bJZi4gMgPIAAx4k6jXrQvAXXR1CmMjZhO/dY90+BhgT+Lwq9w22911T3j1Ai2CsAltZIB8hI60b4p2ZOVTZjOIzSYzmdXmCA2p5bR0ovbYTJHVujUYTEB0VxswB8p5VNNDuDYVrVlEYgkTtJ3YmJO++9X81IOuCvxO9ltsecQPXSouCH+Ch6yfmxNVe0FyEUdW/If81NwB5w9rn3B8+f1o+AhOaRNNzV2aBDNdpOABwbttRnWWKSQrmPeEbP0I32PUBuF8HuPbNy06Q+oW4WLBojMWEkTp3SPUTFazH4lXPsFaHfQjUEJEuw8I7sjmwq6iKNgBoBoOQ2HlT26AluYe9fu2B7EZhMwpBGZt2OfYrzMTufKsdj8JdRy78zJfdTy9OkV7HjcIlxCjrKn0IPIqRqCOorPY3s/lRiLxIAOjIpJ6AkRPypoToWUb2MXwTEOiOmdkzypWe6wM7KdJgjoRFbjAdrbZbJe/htA70/wzJIHe+wdPtaeJrEPadCymGQGNQAsEAgD4ImNdNNxQziV494Qe8AAre9AbNmzagjpvTadUim5QPb1uA1xtd9a8b7P9qr2GhQc6AR7NpMR8LbpofLTavReFdqsPeAh8jEe4+h9CNCPKkljkiyM1IkxvAEMtaPs23ygTbY+KfZ81j1oDiVe2YuoU+971s+TgQPJoPhWyTEI2zA+RFQnGIZXOAdtdD9aW/ZYrRmOHcUCt3Gz9VXvSPJZ1rXI8gGCJAMEQRPUcjUGHUKIDluepB/Kps1B0Buyla0d15B8w8A6qx/1Zz61ITUTaXjBHeQSJ2KMdY8Q/8ApFTRXLzxrIyt8nQadNMFdc6VUlbFZlOPvo34hSqHjjd0n71KvVY1UEjE+Ti1MhqvNTJXnWdEnrt9myEJ757q/jbur9SDTRvVvhiBruu1tcw/ExKg+gDfOjjjckheQpw/hyWzI1IUIunuIoACL02kncnyAF8tAk6AVEGqHEYsICTMDc7D+piB9a6HJYR4njVhDBuLI5Ag1Sfj+b+WhfxCs/0QH86sXseFGYWzG8nKB86GYrj7AT3UA5nX86KQaLNs4m6e8TaTmTAYj7qjbzY6dDXeKdpLGGSBLlQAFUzGmmZz5eJrE8a7TOWKAyI3zCdRyUaD86BYLCXcQ+VAXY6k9PFm/WrVj21T2RVLKltHdhHjnaS7iTDd1QZCiYHnr3j4mrPZy5iUByaIde8zKT1ykA/URWk4H2QtWxmugXHjYjuL5KfePifpRz902pHcjyZwPkDWfJ12JfGK2EgpXqkzEYlHdsqQjiSWzsWE8mYbCfsifStbw62ly0lhwAMudGQkNmQgPmmSrgtrJObMfGo+0uFVUtZAEyuQIAiCjyCOYJAnyoPZx/smLHuMRBeO6Ry78aeRijDJ3I2kXR33Npw3h1uyCEGrGWYwWY+JAA9ABU9zGIvvOo9dflWMfi2be6D4ZwfoDUP7TOwY+kfVootMdJGtu8btjbM3kIH1qpd4+32VA8yT+lZpjcOxVB6sf7AfWupZ+J2bzMD5LFGg0EsVjHcyxmNuQFLhGOeyuXdczGD0LEiDyMEVSLhRqQB4n9aj9oriFf1VhIqUGkbHD8YttvKnx2+Yq1exiKmeZUble9A5sY5DnWEDOvRh/Sf0P0qRPaMMxR0T8JOb8RWQF8Of0qUK0a3DYdLh9q4DZoKT9hB7uU8iZLE+IHKiGasbhuJOvdRxvMaGCd9DtU78SutpmPoAD9KDIkF+NcV9kFAMFpk5S5UDoi7sZ0nTc8oIG7xG465WLEFu6CFztOwIRQCfADzqROHX7hmAgO7XJJ9EGp9SKLWcCmHRnHeeNXaMx6AclExoKO1A8mWt2iCxbdjJG8QAoE89B+dUMXgAzKigQwYlTOXQDVSNVMkajrtR7C4VnaB6nkKgxGHy4ggbIhH9bLH+ylc3FOSJKqMZj+Esh90iNACR/pcQG8jB02NCijDzA6QQQZA15+VemOBzqlieD2n3WDyKkrHoNKGPrvE1/gzyxeUZjAdoHQhW76aQZGcA7anfprr41o8PxFLikq/nyZfMHas7xXgDpLKM6xoVHeUDYFefmPpVbhaLmYuOhDKJCkTJnlqfLQ1peicdUWSOWUdmaxbjkwjq/gEZj6lD/aiWE4biX94og5TmZj5qDoPWfAVJ2WvllbMZKNlnbN3VYGBp9qPStGprm5uolGTikh3NvgG4Hhns2zs+d8pXRcqgEqTAkme6OdXprtxqZWOUpSdsA4GuXDofKktNxB7powXyQrMlxxu760qZ2hbujzpV6iK2MIudTo1Q5dvIU4CvOyR0rLRNcTFPbOdFz6QyzqRMgr4iTpzBPhUPtKWapBuMrAXv3+zCVC+ep/TWqRxpzZyQW6sFMfhkd30qviMPaMu4A5kkkA/igwfWsxxnE2ycqWgkfaKw5HgvIeevlXQwvuOkmGWVRW6NBxTjGUGWzuBOXMPTy9KyeO4i9yJgEbkEkeg2H+amocNh3uNlQSdNhAA215AV6DwDsrbtAO8O++o7in7o5nxP0q7Jkx4FvuymUpT42RmOBdl7l+HcFLe+Yjvt+BT/ALjp516Lw7ApZQIihVHzJ6seZ8anApwNcnP1M8z+3oaMVEkWlOtNBroOtZRwV2oeLSno6H0zqG+hNCKNdoLQa2UOzAqfURWdRyU6NBB8GGh+tdLpH8KHxsnVQNqdNU8HfLDXcEg/P/B6GrM1qZamPJqGzezscvujSfibnHgNvPypt22z92YXnG58AeQ8d/Kj3BeGAQzKAo91Y00206VOCMHX8GyhXZYnYmJ/4p+CwjXCQsabk7Dwo5xtJtnwIP8Ab+9CuF3CLWW22S7cdnWRIyo+RmbqvdEgayw2maC3FcqQMxFt5hYIViG6Fh9ieRHP060V4VxjJ3GEgf1L+oozhsKoXVIMQ2s5jzLfEecnXWqeM4Ej7Sp3HgfA7j51NiWEClu6oJVHH3lDfmNKlt2EX3UUeQA/KsujXsK0v37fNx0++OX4h8udai3cDAMDoRI8jQaISzQ/iaF8qk5UkSerE5VAHr9auM1AHxRvYm2inuKS5HxBBuf/AHZIHn6RIUOWLKosKIH5+JNZ3EkNduOPiCf0CD/qzUdx2KFu27nZVLeZGwHiTArM4dCEAPvbt4sdWPzJqjO6j+QSZIyVxtKSGorj1jFseWmquI4cjMSJRjuUgT5gggnxIqxhzJFTse8aaMnF7Ae5b4JhlRMqzuSSdSSTJJowDVHCCAKsM9UyblK2BnTXDTS1LNQAODVFiH7ppxNQ3joaswq5x/IsuDKcfOwpUztB74HhSr06RjLXTyFPpUq84+ToCrjV2lUIik2uJtg6jIWjlmkax18azfH/AOd/nWlSrp9N4/BTk8mh7LIPZpoNTJ03MnU1s7XujyrtKub1X9R/ksjwOFIUqVZWMPFKlSoAKnFvcHnWYT37n4x/8aUqVb+k5f4GhyQWf5r+Q/vV2lSra+S5cFjDe8n4h+da9aVKkYJFPjH8pvT8xQLgv/iPPMonnGW7pPSlSp4/pYkvBqhSpUqUJDeEoZ10P5VS7P8A8hPIfm1KlU8ELWP/AJb/AIT+VCez3v3PJP8A+6VKiuGHwWe0P8r/APZa/wDkShg2pUqy9R4K5cka1BcpUqzIBLht6mT3vWlSqMnkMWdqeaVKqWDycFMFdpUSHTTbu1dpVbg/qR/Ikv0sx/aD+Z6UqVKvULgxn//Z",
+                "video" : "https://www.youtube.com/embed/bc8wXfu4QXU?si=foGT3XfIc8WMTtfy",
+                "detail" : "Roronoa Zoro, also known as Pirate Hunter Zoro, is a fictional character created by Japanese manga artist Eiichiro Oda who appears in the manga series and media franchise One Piece. He first appeared in the third chapter of the One Piece manga, published in the manga magazine Weekly Shōnen Jump in 1997."
+                
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "name" : "Jujutsu Kaisen",
+        "img" : "https://cms.dmpcdn.com/moviearticle/2021/07/30/2abfd920-f0f2-11eb-8217-8759e1bcd621_original.jpg",
+        "video" : "https://www.youtube.com/embed/UC6EXdxc1Io?si=Kob1qVtnPtK-a944",
+        "star" : 9.0,
+        "typeMovie" : [
+            {
+                "name" : "Animation"
+            },
+            {
+                "name" : "Drama"
+            },
+            {
+                "name" : "Cartoon"
+            }
+        ],
+        "detail" : "Jujutsu Kaisen is a Japanese manga series written and illustrated by Gege Akutami. It has been serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump since March 2018, with its chapters collected and published in 25 tankōbon volumes as of January 2024.",
+        "director" : [
+            {
+                "id" : 1,
+                "name" : "Shueisha",
+                "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Shueisha.jpg/330px-Shueisha.jpg",
+                "video" : "https://www.youtube.com/embed/Nx4ouaSfqdY?si=EA6hcmickwcAXQr3",
+                "detail" : "Shueisha Inc. (株式会社集英社, Kabushiki gaisha Shūei-sha) is a Japanese company headquartered in Chiyoda, Tokyo, Japan. Shueisha is the largest publishing company in Japan.[3] It was established in 1925 as the entertainment-related publishing division of Japanese publisher Shogakukan. The following year, Shueisha became a separate, independent company."
+            }
+        
+        ],
+        "writer" : [
+            {
+                "id" : 1,
+                "name" : "Gege Akutami",
+                "image" : "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/10/photo-2021-10-27-21-11-52.jpg",
+                "video" : "https://www.youtube.com/embed/v4aoqZ-r4-c?si=609BIKWQdw8zCW9h",
+                "detail" : "Gege Akutami (Japanese: 芥見下々, Hepburn: Akutami Gege, born July 31 1992) is a Japanese manga artist, known for their work Jujutsu Kaisen. Gege Akutami is a pen name and the author's real name is unknown."
+            }
+            
+        ],
+        "stars" : [
+            {
+                "id" : 1,
+                "name" : "Itadori Yūji",
+                "image" : "https://i-baa-mang.com/wp-content/uploads/2023/06/itadoriyuuzi.jpg",
+                "video" : "https://www.youtube.com/embed/F3wJzNQUivw?si=5bZZRT9nWI-Va3Qk",
+                "detail" : "Yuji Itadori is a fictional character and the main protagonist of the manga series Jujutsu Kaisen created by Gege Akutami."
+            },
+            {
+                "id" : 2,
+                "name" : "Gojo Satoru",
+                "image" : "https://staticg.sportskeeda.com/editor/2023/10/a8f7e-16970550293200-1920.jpg?w=840",
+                "video" : "https://www.youtube.com/embed/FS0EKpQHeu0?si=ZIHnT8xqtNAwV4LM",
+                "detail" : "Satoru Gojo (Japanese: 五条 悟, Hepburn: Gojō Satoru) is a fictional character from Gege Akutami's manga Jujutsu Kaisen. He was first introduced in Akutami's short series Tokyo Metropolitan Curse Technical School as the mentor of the cursed teenager Yuta Okkotsu at Tokyo Prefectural Jujutsu High School. This miniseries became the prequel Jujutsu Kaisen 0 of Jujutsu Kaisen. In Jujutsu Kaisen, Gojo takes the same role but mentors the student Yuji Itadori who suffers a similar Curse, helping him become stronger while protecting other characters in the series."
+                
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "name" : "Kimetsu no yaiba",
+        "img" : "https://inwfile.com/s-fw/so9m1r.png",
+        "video" : "https://www.youtube.com/embed/lD8MET1ix_s?si=lHQ9XMCaxdiZ5xI2",
+        "star" : 8.0,
+        "typeMovie" : [
+            {
+                "name" : "Animation"
+            },
+            {
+                "name" : "Horror movie"
+            },
+            {
+                "name" : "Cartoon"
+            }
+        ],
+        "detail" : "Demon Slayer: Kimetsu no Yaiba is a Japanese manga series written and illustrated by Koyoharu Gotouge. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from February 2016 to May 2020, with its chapters collected in 23 tankōbon volumes.",
+        "director" : [
+            {
+                "id" : 1,
+                "name" : "Shueisha",
+                "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Shueisha.jpg/330px-Shueisha.jpg",
+                "video" : "https://www.youtube.com/embed/Nx4ouaSfqdY?si=EA6hcmickwcAXQr3",
+                "detail" : "Shueisha Inc. (株式会社集英社, Kabushiki gaisha Shūei-sha) is a Japanese company headquartered in Chiyoda, Tokyo, Japan. Shueisha is the largest publishing company in Japan.[3] It was established in 1925 as the entertainment-related publishing division of Japanese publisher Shogakukan. The following year, Shueisha became a separate, independent company."
+            }
+        ],
+        "writer" : [
+            {
+                "id" : 1,
+                "name" : "Koyoharu Gotouge",
+                "image" : "https://cdn.mainichi.jp/vol1/2021/03/04/20210304p2g00m0et076000p/8.jpg?2",
+                "video" : "https://www.youtube.com/embed/J2eJa7OW0RA?si=pK_g21Bov1sgEs4e",
+                "detail" : "Koyoharu Gotouge (Japanese: 吾峠 呼世晴, Hepburn: Gotōge Koyoharu, born May 5, 1989) is a Japanese manga artist, known for the manga series Demon Slayer: Kimetsu no Yaiba (2016–2020). By February 2021, the manga had over 150 million copies in circulation (including digital copies), making it one of the best-selling manga series of all time."
+            }
+            
+        ],
+        "stars" : [
+            {
+                "id" : 1,
+                "name" : "Tanjiro Kamado",
+                "image" : "https://static.printler.com/cache/8/2/d/7/4/0/82d740da4a236966f6facf785f353f54d2c9289d.jpg",
+                "video" : "https://www.youtube.com/embed/XXtKO3B-mcM?si=8oJPZEIHe7ZFHC0h",
+                "detail" : "Tanjiro Kamado (Japanese: 竈門 炭治郎, Hepburn: Kamado Tanjirō) is a fictional character and the protagonist of Koyoharu Gotouge's manga Demon Slayer: Kimetsu no Yaiba. Tanjiro goes on a quest to restore the humanity of his sister, Nezuko"
+               
+            },
+            {
+                "id" : 2,
+                "name" : "Kamado Nezuko",
+                "image" : "https://cdn.epicstream.com/images/ncavvykf/epicstream/8bf42370886d60fa17dfa1c0654014709f10c47b-1200x720.png?rect=0,45,1200,630&w=1200&h=630&auto=format",
+                "video" : "https://www.youtube.com/embed/F-gM-1XBM9c?si=ioLTI4xrNZcRoFrM",
+                "detail" : "Nezuko Kamado is a fictional character in Koyoharu Gotouge's manga series Demon Slayer: Kimetsu no Yaiba."
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "name" : "Tensei Shitara Slime Datta Ken",
+        "img" : "https://www.bloggang.com/data/i/iamzeon/picture/1584976429.jpg",
+        "video" : "https://www.youtube.com/embed/o6-pTWJaqdA?si=6olNd9Lgkz0Z5ddD",
+        "star" : 9.6,
+        "typeMovie" : [
+            {
+                "name" : "Animation"
+            },
+            {
+                "name" : "Fantasy"
+            },
+            {
+                "name" : "Cartoon"
+            }
+        ],
+        "detail" : "That Time I Got Reincarnated as a Slime, also known as Regarding Reincarnated to Slime and by the contraction TenSura, is a Japanese fantasy light novel series written by Fuse, and illustrated by Mitz Vah.",
+        "director" : [
+            {
+                "id" : 1,
+                "name" : "Shōsetsuka ni Narō",
+                "image" : "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sh%C5%8Dsetsuka_ni_Nar%C5%8D_logo.png",
+                "video" : "https://www.youtube.com/embed/SmqE6wdjNio?si=vCg5CK64WJpGN2tg",
+                "detail" : "Shōsetsuka ni Narō (小説家になろう, lit. Let's Become a Novelist) is a Japanese novel self-publishing website created by Yusuke Umezaki (梅崎 祐輔, Umezaki Yūsuke). It was launched on April 2, 2004. Users can upload their novels free of charge and the novels are also free to read. As of December 2022, the site hosts close to 1,000,000 novels, has over 2,300,000 registered users and it receives over 1 billion page views per month."
+            }
+           
+        ],
+        "writer" : [
+            {
+                "id" : 1,
+                "name" : "Fuse",
+                "image" : "https://www.arjanfield.com/wp-content/uploads/2018/08/S__49004601.jpg",
+                "video" : "https://www.youtube.com/embed/I24gsuQeJOo?si=Vk32UprwxGLegGT_",
+                "detail" : "อาจารย์ Fuse ได้ระบุว่าธีม ‘การสร้างประเทศ’ ของเรื่อง เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ด้วยว่าตอนแรกที่เริ่มเขียนเรื่องนี้ เขาไม่ได้วาดภาพให้ตัวละคร ริมุรุ คิดจะสร้างประเทศ เขาแค่เขียนเรื่องให้ ริมุรุ ทำภารกิจสำเร็จไปเรื่อยๆ แต่พอรู้ตัวอีกทีเขาก็เขียนเรื่องให้ ริมุรุ พยายามสร้างประเทศไปแล้ว ทุกวันนี้ อาจารย์ Fuse ยังเห็นว่า ‘ทำสิ่งที่ทำได้ในวันนี้’ เป็นธีมอีกอย่างหนึ่งของเรื่อง เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว และเพื่อนกับกลุ่มสังคมที่เขาได้พบเจอในเรื่องก็กลายส่วนสำคัญของเรื่องนี้แล้ว"
+            }
+        ],
+        "stars" : [
+            {
+                "id" : 1,
+                "name" : "Rimuru Tempest",
+                "image" : "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/02/rimuru-with-sword.jpg",
+                "video" : "https://www.youtube.com/embed/KRuE9UE0moI?si=R0ThpvsTPyIWGG12",
+                "detail" : "Rimuru Tempest's background story begins in Japan, where he was originally a human named Satoru Mikami. One day, while walking home from work, he is stabbed and killed by a criminal. However, he is reincarnated into a fantasy world as a slime monster with unique abilities."
+            },
+            {
+                "id" : 2,
+                "name" : "Shuna",
+                "image" : "https://i-baa-mang.com/wp-content/uploads/2023/02/Reincarnation-Slime-Syuna-min.jpg",
+                "video" : "https://www.youtube.com/embed/tFQ-jy0WK5Y?si=-XklVwPhGzVcRAQt",
+                "detail" : "Shuna is a gentle and forgiving girl with keen senses. Being raised as a princess, she also possesses a refined and graceful personality. Rimuru often relies"
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "name" : "Naruto",
+        "img" : "https://mpics.mgronline.com/pics/Images/558000009010401.JPEG",
+        "video" : "https://www.youtube.com/embed/BeuzeUyjks0?si=yEu1H5jPALqqLGCE",
+        "star" : 9.9,
+        "typeMovie" : [
+            {
+                "name" : "Animation"
+            },
+            {
+                "name" : "Action movie"
+            },
+            {
+                "name" : "Cartoon"
+            }
+        ],
+        "detail" : "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+        "director" : [
+            {
+                "id" : 1,
+                "name" : "Shueisha",
+                "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Shueisha.jpg/330px-Shueisha.jpg",
+                "video" : "https://www.youtube.com/embed/Nx4ouaSfqdY?si=EA6hcmickwcAXQr3",
+                "detail" : "Shueisha Inc. (株式会社集英社, Kabushiki gaisha Shūei-sha) is a Japanese company headquartered in Chiyoda, Tokyo, Japan. Shueisha is the largest publishing company in Japan.[3] It was established in 1925 as the entertainment-related publishing division of Japanese publisher Shogakukan. The following year, Shueisha became a separate, independent company."
+            }
+            
+        ],
+        "writer" : [
+            {
+                "id" : 1,
+                "name" : "Masashi Kishimoto",
+                "image" : "https://cdn.myanimelist.net/images/voiceactors/2/42365.jpg",
+                "video" : "https://www.youtube.com/embed/1FKZaOComZg?si=cq1DDJNu264s5rM9",
+                "detail" : "Masashi Kishimoto (岸本 斉史, Kishimoto Masashi, born November 8, 1974[1]) is a Japanese manga artist. His manga series, Naruto, which was in serialization from 1999 to 2014, has sold over 250 million copies worldwide in 46 countries as of May 2019."
+            }
+            
+        ],
+        "stars" : [
+            {
+                "id" : 1,
+                "name" : "Naruto Uzumaki",
+                "image" : "data:image/jpeg;base64,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",
+                "video" : "https://www.youtube.com/embed/lsir5YqqGL8?si=1KMrx2wgtG9VwGaI",
+                "detail" : "Naruto Uzumaki is the titular protagonist of the manga Naruto, created by Masashi Kishimoto. He is a ninja from the fictional Hidden Leaf Village. As a boy, Naruto is ridiculed and ostracized on account of the Nine-Tailed Demon Fox—a malevolent creature that attacked Konohagakure—that was sealed away in his body."
+               
+            },
+            {
+                "id" : 2,
+                "name" : "Haruno Sakura",
+                "image" : "https://3.bp.blogspot.com/-eOK27wc4QOA/VPxT4St10II/AAAAAAAAALI/2L4tmQF9apc/s1600/pic2.jpg",
+                "video" : "https://www.youtube.com/embed/rBjX5QqsKRY?si=TLfx-DdolGyZ71e1",
+                "detail" : "Sakura Haruno is a fictional character in the Naruto manga and anime series created by Masashi Kishimoto. Sakura is depicted as a kunoichi affiliated with Konohagakure and a part of Team 7, which consists of herself, Naruto Uzumaki, Sasuke Uchiha, and their sensei Kakashi Hatake."
+                
+            }
+        ]
+
+    }
+]

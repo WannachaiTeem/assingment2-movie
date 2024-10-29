@@ -1,0 +1,50 @@
+[
+    {
+        "age" : 16,
+        "name" : "Kirigaya Kazuto",
+        "img" : "https://images7.alphacoders.com/311/311020.jpg",
+        "video" : "https://www.youtube.com/embed/h8mqCy-KK0Y?si=YioKugbHOSlYaDqL",
+        "detail" : "Kazuto Kirigaya, born as Kazuto Narusaka, is a fictional character and the protagonist of the Sword Art Online series of light novels written by Reki Kawahara. Known by a portmanteau of his name, Kirito which is his user name in the Sword Art Online video game which the series are partially"
+        
+    },
+    {
+        "age" : 18,
+        "name" : "Monkey D Luffy",
+        "img" : "https://media.oknation.net/uploads/201701/21/7298986a2.jpg",
+        "video" : "https://www.youtube.com/embed/xJ_xJ8K65Fs?si=e74ZPDT8nX1o0tOf",
+        "detail" : "Monkey D. Luffy, also known as Straw Hat Luffy, is a fictional character and the protagonist in the Japanese manga series One Piece created by Eiichiro Oda. Luffy made his debut as a young boy who acquires the properties of rubber after accidentally eating one of the Devil Fruits that belonged to Red Hair Shanks."
+        
+    },
+    {
+        "age" : 16,
+        "name" : "Itadori Yūji",
+        "img" : "https://i-baa-mang.com/wp-content/uploads/2023/06/itadoriyuuzi.jpg",
+        "video" : "https://www.youtube.com/embed/F3wJzNQUivw?si=5bZZRT9nWI-Va3Qk",
+        "detail" : "Yuji Itadori is a fictional character and the main protagonist of the manga series Jujutsu Kaisen created by Gege Akutami."
+        
+    },
+    {
+        "age" : 14,
+        "name" : "Kamado Nezuko",
+        "img" : "https://cdn.epicstream.com/images/ncavvykf/epicstream/8bf42370886d60fa17dfa1c0654014709f10c47b-1200x720.png?rect=0,45,1200,630&w=1200&h=630&auto=format",
+        "video" : "https://www.youtube.com/embed/F-gM-1XBM9c?si=ioLTI4xrNZcRoFrM",
+        "detail" : "Nezuko Kamado is a fictional character in Koyoharu Gotouge's manga series Demon Slayer: Kimetsu no Yaiba."
+        
+    },
+    {
+        "age" : 17,
+        "name" : "Shuna",
+        "img" : "https://i-baa-mang.com/wp-content/uploads/2023/02/Reincarnation-Slime-Syuna-min.jpg",
+        "video" : "https://www.youtube.com/embed/tFQ-jy0WK5Y?si=-XklVwPhGzVcRAQt",
+        "detail" : "Shuna is a gentle and forgiving girl with keen senses. Being raised as a princess, she also possesses a refined and graceful personality. Rimuru often relies"
+        
+    },
+    {
+        "age" : 17,
+        "name" : "Haruno Sakura",
+        "img" : "https://3.bp.blogspot.com/-eOK27wc4QOA/VPxT4St10II/AAAAAAAAALI/2L4tmQF9apc/s1600/pic2.jpg",
+        "video" : "https://www.youtube.com/embed/rBjX5QqsKRY?si=TLfx-DdolGyZ71e1",
+        "detail" : "Sakura Haruno is a fictional character in the Naruto manga and anime series created by Masashi Kishimoto. Sakura is depicted as a kunoichi affiliated with Konohagakure and a part of Team 7, which consists of herself, Naruto Uzumaki, Sasuke Uchiha, and their sensei Kakashi Hatake."
+        
+    }
+]
